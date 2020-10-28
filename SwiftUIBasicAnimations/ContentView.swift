@@ -13,6 +13,7 @@ struct ContentView: View {
             Group {
                 FirstType()
                 SecondType()
+                ThirdType()
             }.padding()
         }
     }

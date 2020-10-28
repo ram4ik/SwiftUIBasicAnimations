@@ -13,6 +13,7 @@
 		1D9034542549ADB5006741F4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D9034532549ADB5006741F4 /* Preview Assets.xcassets */; };
 		1D90345D2549AE15006741F4 /* FirstType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D90345C2549AE14006741F4 /* FirstType.swift */; };
 		1D9034602549AEFE006741F4 /* SecondType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D90345F2549AEFE006741F4 /* SecondType.swift */; };
+		1D9034632549B073006741F4 /* ThirdType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9034622549B073006741F4 /* ThirdType.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1D9034552549ADB5006741F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1D90345C2549AE14006741F4 /* FirstType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstType.swift; sourceTree = "<group>"; };
 		1D90345F2549AEFE006741F4 /* SecondType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondType.swift; sourceTree = "<group>"; };
+		1D9034622549B073006741F4 /* ThirdType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdType.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				1D9034522549ADB5006741F4 /* Preview Content */,
 				1D90345C2549AE14006741F4 /* FirstType.swift */,
 				1D90345F2549AEFE006741F4 /* SecondType.swift */,
+				1D9034622549B073006741F4 /* ThirdType.swift */,
 			);
 			path = SwiftUIBasicAnimations;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				1D90344F2549ADB0006741F4 /* ContentView.swift in Sources */,
 				1D9034602549AEFE006741F4 /* SecondType.swift in Sources */,
 				1D90345D2549AE15006741F4 /* FirstType.swift in Sources */,
+				1D9034632549B073006741F4 /* ThirdType.swift in Sources */,
 				1D90344D2549ADB0006741F4 /* SwiftUIBasicAnimationsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
